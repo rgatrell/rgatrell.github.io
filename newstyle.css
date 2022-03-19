@@ -1,0 +1,26 @@
+header
+{
+    font-size: large;
+    color:lavender;
+    text-align:center; 
+    
+    
+}
+
+
+
+body
+{
+    background-color:bisque;
+    font-family:monospace;
+    font-size: 23px;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+    border-left: large;
+    border-right: large;
+    border-right-color:azure;
+    border-left-color:azure;
+    text-align: center;
+}
